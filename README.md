@@ -1,4 +1,4 @@
-<div align="center" style="background-color: pink">
+<div align="center">
 (> ” ” <)  <br>
 ( =’o'= )  <br>
 -(,,)-(,,)-  <br><br>
