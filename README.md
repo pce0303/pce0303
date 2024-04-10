@@ -19,7 +19,7 @@
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Scss-CC6699?style=flat&logo=Sass&logoColor=white"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Nginx-009639style=flat&logo=NGINX&logoColor=white"/></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Nginx-009639style=flat&logo=nginx&logoColor=white"/></a>
   </div><hr>
     <p>My Blocks?</p>
   </div>
