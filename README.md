@@ -1,14 +1,14 @@
 <div class="body" align="center">
-    <h1>😸 Hi 😸</h1><hr>
+    <h1>ʜɪ⚞ ᕬᕬ ෆ</h1><hr>
   <div style="display: flex; flex-direction: row;">
   <div class="badges">
-    <h3>Contact</h3>
+    <h3>(๑˙³˙)و</h3>
     <a href="https://www.instagram.com/cxoeun/" target="_blank"><img src="https://img.shields.io/badge/cxoeun-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
     <a href="https://itsmineve.tistory.com" target="_blank"><img src="https://img.shields.io/badge/itsmineve-000000?style=flat&logo=Tistory&logoColor=white"/></a>
     <a href="https://frankenkitty.tistory.com" target="_blank"><img src="https://img.shields.io/badge/frankenkitty-000000?style=flat&logo=Tistory&logoColor=white"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/itsmineve-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
     <br><hr>
-    <h3>Skills</h3>
+    <h3>(๑╹o╹)✎</h3>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=Vue.js&logoColor=white"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=Svelte&logoColor=white"/></a>
