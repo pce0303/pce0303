@@ -12,6 +12,7 @@
     <a href="https://itsmineve.tistory.com" target="_blank"><img src="https://img.shields.io/badge/itsmineve-000000?style=flat&logo=Tistory&logoColor=white"/></a>
     <a href="https://frankenkitty.tistory.com" target="_blank"><img src="https://img.shields.io/badge/frankenkitty-000000?style=flat&logo=Tistory&logoColor=white"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Vue-0000ff?style=flat&logo=Vuet&logoColor=white"/></a>
   </div><hr>
     <p>My Blocks?</p>
   </div>
