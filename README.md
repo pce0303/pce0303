@@ -19,17 +19,22 @@
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Scss-CC6699?style=flat&logo=Sass&logoColor=white"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/></a>
+    <br>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=NGINX&logoColor=white"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/></a>
-    <br>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/TS-3178C6?style=flat&logo=TypeScript&logoColor=white"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
+    <br>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Next-000000?style=flat&logo=Next.js&logoColor=white"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Postgres-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Three-000000?style=flat&logo=Three.js&logoColor=white"/></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white"/></a>
   </div><hr>
     <p>My Blocks?</p>
   </div>
