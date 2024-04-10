@@ -6,7 +6,7 @@
 </head>
 <body>
   <div class="body" style-"display: flex; align-items:center;">
-    <h1>👋🏻 Hi 👋🏻</h1><hr>
+    <h1>😸 Hi 😸</h1><hr>
   <div class="badges">
     <a href="https://www.instagram.com/cxoeun/" target="_blank"><img src="https://img.shields.io/badge/cxoeun-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
     <a href="https://itsmineve.tistory.com" target="_blank"><img src="https://img.shields.io/badge/itsmineve-000000?style=flat&logo=Tistory&logoColor=white"/></a>
