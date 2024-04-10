@@ -33,8 +33,7 @@
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white"/></a>
   </div><hr>
   <div>
-    <p>My Blocks?</p>
-
+      
   ![](./profile-3d-contrib/profile-night-rainbow.svg)
   
   </div>
