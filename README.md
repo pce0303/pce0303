@@ -28,6 +28,8 @@
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/TS-3178C6?style=flat&logo=TypeScript&logoColor=white"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/Next-000000?style=flat&logo=Next.js&logoColor=white"/></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
   </div><hr>
     <p>My Blocks?</p>
   </div>
