@@ -3,17 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-  <style>
-    .body {
-      display: flex;
-      align-items: center;
-      flex-direction: column;
-    }
-  </style>
 </head>
 <body>
-  <div class="body">
+  <div class="body" style-"display: flex; align-items:center;">
     <h1>👋🏻 Hi 👋🏻</h1><hr>
   <div class="badges">
     <a href="https://www.instagram.com/cxoeun/" target="_blank"><img src="https://img.shields.io/badge/cxoeun-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
