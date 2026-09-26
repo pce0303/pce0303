@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%">
+  <img src="./assets/cat-terminal.svg" width="100%" />
 </p>
