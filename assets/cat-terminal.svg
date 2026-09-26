@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1200 220"
+     width="1200"
+     height="220"
+     role="img"
+     aria-label="Minimal terminal banner with a blinking cursor and a cat walking across the bottom">
+  <style>
+    .terminal {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 16px;
+      font-weight: 500;
+      fill: #8b949e;
+    }
+
+    .cursor {
+      fill: #8b949e;
+      animation: blink 1.05s steps(1, end) infinite;
+    }
+
+    .cat-fill {
+      fill: #7d8590;
+    }
+
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .cursor { animation: none; }
+    }
+  </style>
+
+  <!-- terminal hint -->
+  <text class="terminal" x="42" y="46">~/src</text>
+  <rect class="cursor" x="93" y="32" width="7" height="17" rx="1"/>
+
+  <!-- cat: appears occasionally and quietly crosses the banner -->
+  <g opacity="0">
+    <animate attributeName="opacity"
+             values="0;0;0.82;0.82;0;0"
+             keyTimes="0;0.18;0.23;0.78;0.84;1"
+             dur="11.5s"
+             repeatCount="indefinite"/>
+
+    <g>
+      <animateTransform attributeName="transform"
+                        type="translate"
+                        values="-110 0; -110 0; 1220 0; 1220 0"
+                        keyTimes="0;0.20;0.84;1"
+                        dur="11.5s"
+                        repeatCount="indefinite"/>
+
+      <!-- subtle walking bob -->
+      <g>
+        <animateTransform attributeName="transform"
+                          type="translate"
+                          values="0 0; 0 -2; 0 0; 0 -1; 0 0"
+                          keyTimes="0;0.25;0.5;0.75;1"
+                          dur="0.9s"
+                          repeatCount="indefinite"/>
+
+        <!-- compact cat silhouette -->
+        <g transform="translate(0 153) scale(0.78)">
+          <!-- body + tail -->
+          <path class="cat-fill"
+                d="M19 31
+                   C19 22 26 15 35 15
+                   H51
+                   C59 15 66 20 67 28
+                   C73 26 78 21 79 15
+                   C80 12 84 13 83 17
+                   C81 26 75 32 67 35
+                   C63 37 58 39 53 39
+                   H34
+                   C25 39 19 37 19 31 Z"/>
+          <!-- ears -->
+          <path class="cat-fill" d="M25 17 L29 6 L36 16 Z"/>
+          <path class="cat-fill" d="M45 16 L52 6 L57 18 Z"/>
+          <!-- legs -->
+          <rect class="cat-fill" x="29" y="35" width="5" height="8" rx="2"/>
+          <rect class="cat-fill" x="49" y="35" width="5" height="8" rx="2"/>
+          <!-- eye cutout -->
+          <circle cx="38" cy="22" r="1.4" fill="transparent"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
